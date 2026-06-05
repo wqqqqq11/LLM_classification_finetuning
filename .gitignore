@@ -1,1 +1,5 @@
 /kaggle/input
+__pycache__
+/outputs
+.python-version
+pyproject.toml
