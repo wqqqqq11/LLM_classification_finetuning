@@ -243,7 +243,6 @@ final_p_tie = (p_tie + swapped_p_tie) / 2
 
 submission.csv
 
-
 格式：
 
 id,winner_model_a,winner_model_b,winner_tie
@@ -257,5 +256,3 @@ id, P(A赢), P(B赢), P(Tie)
 三类概率必须和为 1。
 
 测试集示例只有 3 条，但正式评分时平台会替换完整隐藏测试集，所以 V1 不能依赖当前 test.csv 的分布。
-
-x8zFY5p2ogEwng8Ui7UwpV-17806534…

@@ -56,3 +56,9 @@ LLM_classification_finetuning/
 └── tools/                        # 工具脚本
     └── analyze_data.py           # 数据分析脚本
 ```
+
+# 训练模式
+python main.py --mode train
+
+# 预测模式（需要指定模型路径）
+python main.py --mode predict --model_path outputs/training/final

@@ -3,3 +3,4 @@ __pycache__
 /outputs
 .python-version
 pyproject.toml
+/wandb

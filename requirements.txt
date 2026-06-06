@@ -1,1 +1,12 @@
+transformers
+peft
+bitsandbytes
+accelerate
+datasets
 pandas
+numpy
+scikit-learn
+wandb
+safetensors
+tqdm
+bitsandbytes
